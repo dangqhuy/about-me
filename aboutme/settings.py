@@ -132,8 +132,8 @@ STATICFILES_DIRS = [
 CKEDITOR_CONFIGS = {
     'default': {
         'toolbar': 'full',
-        'height': 300,
-        'width': 300,
+        'height': 450,
+        'width': 1350,
     },
 }
 
