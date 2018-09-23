@@ -1,6 +1,6 @@
-from model_utils import TimeStampedModel, SoftDeletableModel
+from model_utils.models import TimeStampedModel, SoftDeletableModel
 from django.db import models
-from ckeditor.fields import RichTextUploadingField
+from ckeditor_uploader.fields import RichTextUploadingField
 from django.contrib.auth.models import User
 from django.utils.translation import ugettext_lazy as _
 

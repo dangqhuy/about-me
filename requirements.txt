@@ -2,6 +2,6 @@ Django==2.1.1
 psycopg2
 django-model-utils
 Pillow
-django-rest-framework1
+django-rest-framework
 django-ckeditor
 
